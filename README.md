@@ -1,7 +1,7 @@
 # Ride Knox Ridership Analysis, 2025
 
 ## Overview
-Which riders drove the 2025 decline, and where is dock capacity strained?
+How did different segments experience the dropoff of ridership in July, and where is dock capacity strained?
 
 - **Data:** 247,967 cleaned trips across 24 stations
 - **Tools:** Python, pandas, matplotlib
